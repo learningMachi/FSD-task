@@ -15,6 +15,7 @@ In the traditional model, the server can only respond to client requests. Any ad
 
 
 HTTP2:
+
 HTTP stands for Hypertext Transfer Protocol,
 Year - HTTP/2 introduced in 2015,
 A new version of HTTP called HTTP/2 was created. HTTP/2 solves several problems that the creators of HTTP/1.1 did not anticipate. In particular, HTTP/2 is much faster and more efficient than HTTP/1.1. One of the ways in which HTTP/2 is faster is in how it prioritizes content during the loading process.
