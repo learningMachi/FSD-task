@@ -10,6 +10,8 @@ It relies on a text based format for communication and uses a single connection 
 Communication in HTTP/1.1 is done through plaintext, making it susceptible to eavesdropping and security vulnerabilities.
 3. Server Push:
 In the traditional model, the server can only respond to client requests. Any additional resources required by the client must be explicitly requested.
+
+
 HTTP2:
 HTTP stands for Hypertext Transfer Protocol,
 Year - HTTP/2 introduced in 2015,
