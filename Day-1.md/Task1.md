@@ -1,5 +1,7 @@
 Difference between HTTP1.1 and HTTP2.
+
 HTTP/1.1 :
+
 HTTP stands for Hypertext Transfer Protocol,   
 Year - HTTP/1.1 introduced in 1997,
 The first usable version of HTTP was created in 1997. Because it went through several stages of development, this first version of HTTP was called HTTP/1.1. This version is still in use on the web.
